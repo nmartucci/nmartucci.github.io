@@ -1,1 +1,60 @@
-
+ 
+            .container {
+                width: 50%;
+                margin:0 auto;
+            }
+            .left {
+            width: 40%;
+            float: left;
+        }
+        .right {
+            width: 40%;
+            float: left;
+            margin-left: 10%;
+        }
+        .mantis {
+            margin-left: 70px;
+        }
+        table, tr, th, td {
+            border: 1px solid black;
+            padding: 8px;
+        }
+        table {
+            margin-bottom: 50px;
+        }
+        .snoop
+        {
+            color: fuchsia;
+        }
+        .doggy
+        {
+            font-size: 16
+        }
+        .dog
+        {
+            text-decoration: underline;
+        }
+        body{
+            background-color: azure;
+            font-family: fantasy;
+            color: darkorchid
+        }
+        tr:nth-child(even)
+        {
+            background-color: darkgrey;
+            color: cornflowerblue;
+            
+        }
+        p:first-child
+        {
+            font-style: oblique;
+        }
+li:nth-child(5)
+    {
+        color: darkgreen
+    }
+a:hover
+    {
+        font-style: italic;
+        color: darkorange;
+    }
