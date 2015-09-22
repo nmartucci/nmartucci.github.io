@@ -34,4 +34,5 @@
 li:first-child
 {
     list-style: none;
+    float: left;
 }
