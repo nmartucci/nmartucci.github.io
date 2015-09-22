@@ -14,9 +14,9 @@
     {
       height: 100px;
         width: 20%;
-        float: left;
         text-align: center;
         background-color: darkseagreen;
+        display: inline;
     }
 .sidebar
     {
