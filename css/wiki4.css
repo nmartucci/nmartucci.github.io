@@ -1,0 +1,32 @@
+.wrap
+    {
+    margin: 0 auto;
+      width: 60%;
+        background-color: darkgreen;
+    }
+.header 
+    {
+      text-align: right; 
+        height: 10%;
+        background-color: darkkhaki;
+    }
+.nav
+    {
+      height: 100px;
+        width: 20%;
+        float: left;
+        text-align: center;
+        background-color: darkseagreen;
+    }
+.sidebar
+    {
+        width:20%;
+        float:right;
+        text-align: center;
+        background-color: darkkhaki;
+    }
+.content
+    {
+        float:left;
+        background-color: forestgreen
+    }
