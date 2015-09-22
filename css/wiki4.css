@@ -15,7 +15,7 @@
       height: 100px;
         text-align: center;
         background-color: darkseagreen;
-        display: inline-block;
+        display: inline;
         width: 100%;
         float:left;
     }
