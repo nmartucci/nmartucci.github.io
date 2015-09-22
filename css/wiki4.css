@@ -30,7 +30,8 @@
 .content
     {
         float:left;
-        background-color: forestgreen
+        background-color: forestgreen;
+        height:100%;
         
     }
 li
