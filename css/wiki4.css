@@ -31,4 +31,7 @@
         float:left;
         background-color: forestgreen
     }
-li:fi
+li:first-child
+{
+    list-style: none;
+}
