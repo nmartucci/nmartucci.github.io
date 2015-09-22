@@ -16,6 +16,7 @@
         text-align: center;
         background-color: darkseagreen;
         display: inline-block;
+        width: 100%;
     }
 .sidebar
     {
