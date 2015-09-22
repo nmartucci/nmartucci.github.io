@@ -1,7 +1,7 @@
 .wrap
     {
     margin: 0 auto;
-      width: 60%;
+      width: 75%;
         background-color: darkgreen;
     }
 .header 
@@ -31,3 +31,4 @@
         float:left;
         background-color: forestgreen
     }
+li:fi
