@@ -32,7 +32,7 @@
         float:left;
         background-color: forestgreen
     }
-li:first-child
+li:nth-child(all)
 {
     list-style: none;
     float: left;
