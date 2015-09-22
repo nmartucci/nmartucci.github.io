@@ -31,6 +31,7 @@
     {
         float:left;
         background-color: forestgreen
+        
     }
 li
 {
@@ -42,4 +43,5 @@ li
 .footer
 {
     float: center;
+    width: 100%;
 }
