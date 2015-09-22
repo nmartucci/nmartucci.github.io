@@ -36,6 +36,8 @@ li
 {
     list-style: none;
     float: left;
+    padding-left:10px;
+    padding-right:10px;
 }
 .footer
 {
