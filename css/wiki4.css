@@ -26,7 +26,7 @@
         float:right;
         text-align: center;
         background-color: darkkhaki;
-        height:100%;
+        padding-bottom:100%;
     }
 .content
     {
