@@ -37,3 +37,7 @@ li:first-child
     list-style: none;
     float: left;
 }
+.footer
+{
+    float: center;
+}
