@@ -1,0 +1,67 @@
+.container
+{
+    background-color:lightyellow;
+    margin: 0 auto;
+}
+.header h1
+{
+float: left;
+    margin: 0 50px 0 30px;
+}
+.header li
+{
+
+    display: inline;
+    padding-left:20px;
+    margin-top: 10px;
+}
+.header
+{
+    clear:both;
+        padding-bottom: 20px;
+    background-color: lightcoral
+}
+.content
+{
+    float: left;
+    width: 75%;
+    background-color: lightgreen
+}
+.top-content
+{
+    float: left;
+    clear:both;
+   
+}
+.top-content img
+{
+    float: left;
+    padding: 10px;
+}
+.description
+{
+     padding:10px 20px 0;
+    clear: right;
+}
+.section
+{
+    float: left;
+
+    width: 33%
+}
+.aside
+{
+    float: left;
+    width: 25%;
+
+    background-color: lightyellow
+}
+.footer
+{
+   clear: both ;
+       background-color:lightblue
+}
+li
+{
+    list-style: none;
+}
