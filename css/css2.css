@@ -60,7 +60,9 @@ float: left;
 .footer
 {
    clear: both ;
-       background-color:lightblue
+       background-color:lightblue;
+       text-align: center;
+       font-style: bold;
 }
 li
 {
