@@ -4,7 +4,7 @@ body{
     margin: 0 auto;
     }
 h1{
-       text-align: center; 
+
         color: coral;
     background-color:aquamarine;
     }
@@ -32,15 +32,15 @@ a:visited {
             color: darkmagenta;
         }
 .first{
-
+            margin: auto;
     max-width: 500px;
             }
 .second{
-
+            margin:auto;
     max-width:  500px;
             }
 .third{
-
+       margin: auto;
     max-width: 500px;
         }
             
