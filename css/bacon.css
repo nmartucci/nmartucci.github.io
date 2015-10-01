@@ -1,1 +1,41 @@
 
+body {
+    background: coral;
+    color: black;
+    font-size: 16px;
+    border: 20px double maroon;
+    padding: 10px;
+    max-width: 700px;
+    margin: 0 auto;
+      font-family: Ariel, "halvetica neue", Halvetica, sans-serif;
+}
+
+table, tr, td, th {
+    border-collapse: collapse;
+    border: solid black 1px;
+}
+
+.bacon-info {
+    background: ;
+    color: black;
+}
+
+.bacon-answer {
+    color: black;
+      font-family: Ariel, "halvetica neue", Halvetica, sans-serif;
+
+}
+ul{
+    list-style:circle black;
+    
+}
+.content{
+    border: 5px inset maroon;
+    padding:inherit;
+}
+a{
+    color: darkred;
+}
+a:visited {
+    color:whitesmoke;
+    }
