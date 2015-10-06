@@ -4,6 +4,8 @@ body {
     font-family: Ariel, "halvetica neue", Halvetica, sans-serif;
     font-size: 20px;
         margin: 0 auto;
+        text-align: justified;
+        max-width:750px;
 
 
 }
